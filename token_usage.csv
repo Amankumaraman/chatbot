@@ -1,0 +1,227 @@
+system,"
+You are a helpful Assistant who retrieves all related information about a specific topic from a provided document.
+
+Provide all relevant information based on the user query from the content of the PDF extract with metadata.
+
+Keep your answers exactly as they appear in the document without modifications or personal interpretation.
+
+Match user queries with the exact text from the document.
+
+Focus on the metadata, particularly 'filename' and 'page' when answering.
+
+The evidence is solely from the content of the PDF extract.
+
+Respond with ""Not applicable"" if the text is irrelevant.
+
+The PDF content is:
+Speed    A computer works with much higher speed compared to humans    Computers can process millions of  instructions per second.    The time taken by computers for their operations is microseconds and nanoseconds.   Accuracy    Computers perform calculations with 100% accuracy.    Errors that may occur can almost always be attributed to human error .   Inaccurate data, poorly designed system or faulty programs written by the programmer   Diligence    Computers are highly consistent.    They do not suffer from human traits of boredom and tiredness , lack of concentration.    Computers  can perform  voluminous and repetitive jobs.   Versatility    Computers are versatile machines and are capable of performing any task as long as it  can be broken down into a series of logical steps.    Computer to perform different kinds of works with same accurac y and efficiency.   Reliability    A computer is reliable as it gives consistent result for similar set of data     we give same set of input any number of times, we will get the same result.   Automation    Computer performs all the tasks automaticall y.It performs tasks without manual  intervention.
+Memory /Storage    Computers can store large volumes of data.    A piece of information once recorded (or stored) in the computer, can never be forgotten  and can be retrieved almost instantaneously.   1.3 APPLICATION OF  COMPUTER   The computer used in various application area  inthe world . 
+
+1. Business   2. Education   3. Marketing   4. Banking   5. Insurance   6. Communication   7. Health Care   8. Military   9. Engineering Design  
+
+› Business   A computer  has an integrated part in all busi ness or non -business organizations .  Ex: Payroll calculations, Sales analysis, Budgeting, Financial forecasting, Managing employees  database and Maintenance of stocks etc.  
+
+› Education   Computers have its dominant use in the education field to enhance perfor mance in learning.   Even distance learning is made effective through internet and video -based classes.   Researchers have massive usage of these computers in their scholarly work.  
+
+› Marketing   Advertising  marketing w ith computers, advertising professionals c reate art and graphics, write  and revise copy, and print and disseminate ads with the goal of selling more products.  
+
+Computerized  catalogues that provide access to product information and permit direct entry of  orders to be filled by the customers.  the co mputer used to prints the  magazines, , newspapers,  books and many others.  
+
+› Banking   Today banking is almost totally dependent on computer. Banks provide online accounting  facility, which includes current balances, deposits, overdrafts, interest charges, shares, and  trustee records.   ATM machines are making it even easier for customers to deal with banks.  
+
+› Insurance   Insurance companies are keeping all records up -to-date with the help of computers. The  insurance companies, finance houses and stock broking firms are widely using computers for  their concerns.
+",925,0.0018499999999999999,2024-01-27 15:08:25
+user,speed,1,0.0,2024-01-27 15:08:25
+assistant,"- A computer works with much higher speed compared to humans.
+- Computers can process millions of instructions per second.
+- The time taken by computers for their operations is microseconds and nanoseconds.
+
+(Page: Not applicable, relevant information is spread across multiple pages)",59,0.0018499999999999999,2024-01-27 15:08:25
+system,"
+You are a helpful Assistant who retrieves all related information about a specific topic from a provided document.
+
+Provide all relevant information based on the user query from the content of the PDF extract with metadata.
+
+Keep your answers exactly as they appear in the document without modifications or personal interpretation.
+
+Match user queries with the exact text from the document.
+
+Focus on the metadata, particularly 'filename' and 'page' when answering.
+
+The evidence is solely from the content of the PDF extract.
+
+Respond with ""Not applicable"" if the text is irrelevant.
+
+The PDF content is:
+Speed    A computer works with much higher speed compared to humans    Computers can process millions of  instructions per second.    The time taken by computers for their operations is microseconds and nanoseconds.   Accuracy    Computers perform calculations with 100% accuracy.    Errors that may occur can almost always be attributed to human error .   Inaccurate data, poorly designed system or faulty programs written by the programmer   Diligence    Computers are highly consistent.    They do not suffer from human traits of boredom and tiredness , lack of concentration.    Computers  can perform  voluminous and repetitive jobs.   Versatility    Computers are versatile machines and are capable of performing any task as long as it  can be broken down into a series of logical steps.    Computer to perform different kinds of works with same accurac y and efficiency.   Reliability    A computer is reliable as it gives consistent result for similar set of data     we give same set of input any number of times, we will get the same result.   Automation    Computer performs all the tasks automaticall y.It performs tasks without manual  intervention.
+Memory /Storage    Computers can store large volumes of data.    A piece of information once recorded (or stored) in the computer, can never be forgotten  and can be retrieved almost instantaneously.   1.3 APPLICATION OF  COMPUTER   The computer used in various application area  inthe world . 
+
+1. Business   2. Education   3. Marketing   4. Banking   5. Insurance   6. Communication   7. Health Care   8. Military   9. Engineering Design  
+
+› Business   A computer  has an integrated part in all busi ness or non -business organizations .  Ex: Payroll calculations, Sales analysis, Budgeting, Financial forecasting, Managing employees  database and Maintenance of stocks etc.  
+
+› Education   Computers have its dominant use in the education field to enhance perfor mance in learning.   Even distance learning is made effective through internet and video -based classes.   Researchers have massive usage of these computers in their scholarly work.  
+
+› Marketing   Advertising  marketing w ith computers, advertising professionals c reate art and graphics, write  and revise copy, and print and disseminate ads with the goal of selling more products.  
+
+Computerized  catalogues that provide access to product information and permit direct entry of  orders to be filled by the customers.  the co mputer used to prints the  magazines, , newspapers,  books and many others.  
+
+› Banking   Today banking is almost totally dependent on computer. Banks provide online accounting  facility, which includes current balances, deposits, overdrafts, interest charges, shares, and  trustee records.   ATM machines are making it even easier for customers to deal with banks.  
+
+› Insurance   Insurance companies are keeping all records up -to-date with the help of computers. The  insurance companies, finance houses and stock broking firms are widely using computers for  their concerns.
+",917,0.001834,2024-01-27 15:12:37
+user,speed,1,0.0,2024-01-27 15:12:37
+assistant,"- A computer works with much higher speed compared to humans.
+- Computers can process millions of instructions per second.
+- The time taken by computers for their operations is microseconds and nanoseconds.
+
+(Page: Not specified)",51,0.001834,2024-01-27 15:12:37
+system,"
+You are a helpful Assistant who retrieves all related information about a specific topic from a provided document.
+
+Provide all relevant information based on the user query from the content of the PDF extract with metadata.
+
+Keep your answers exactly as they appear in the document without modifications or personal interpretation.
+
+Match user queries with the exact text from the document.
+
+Focus on the metadata, particularly 'filename' and 'page' when answering.
+
+The evidence is solely from the content of the PDF extract.
+
+Respond with ""Not applicable"" if the text is irrelevant.
+
+The PDF content is:
+Memory /Storage    Computers can store large volumes of data.    A piece of information once recorded (or stored) in the computer, can never be forgotten  and can be retrieved almost instantaneously.   1.3 APPLICATION OF  COMPUTER   The computer used in various application area  inthe world . 
+
+1. Business   2. Education   3. Marketing   4. Banking   5. Insurance   6. Communication   7. Health Care   8. Military   9. Engineering Design  
+
+› Business   A computer  has an integrated part in all busi ness or non -business organizations .  Ex: Payroll calculations, Sales analysis, Budgeting, Financial forecasting, Managing employees  database and Maintenance of stocks etc.  
+
+› Education   Computers have its dominant use in the education field to enhance perfor mance in learning.   Even distance learning is made effective through internet and video -based classes.   Researchers have massive usage of these computers in their scholarly work.  
+
+› Marketing   Advertising  marketing w ith computers, advertising professionals c reate art and graphics, write  and revise copy, and print and disseminate ads with the goal of selling more products.  
+
+Computerized  catalogues that provide access to product information and permit direct entry of  orders to be filled by the customers.  the co mputer used to prints the  magazines, , newspapers,  books and many others.  
+
+› Banking   Today banking is almost totally dependent on computer. Banks provide online accounting  facility, which includes current balances, deposits, overdrafts, interest charges, shares, and  trustee records.   ATM machines are making it even easier for customers to deal with banks.  
+
+› Insurance   Insurance companies are keeping all records up -to-date with the help of computers. The  insurance companies, finance houses and stock broking firms are widely using computers for  their concerns.
+Speed    A computer works with much higher speed compared to humans    Computers can process millions of  instructions per second.    The time taken by computers for their operations is microseconds and nanoseconds.   Accuracy    Computers perform calculations with 100% accuracy.    Errors that may occur can almost always be attributed to human error .   Inaccurate data, poorly designed system or faulty programs written by the programmer   Diligence    Computers are highly consistent.    They do not suffer from human traits of boredom and tiredness , lack of concentration.    Computers  can perform  voluminous and repetitive jobs.   Versatility    Computers are versatile machines and are capable of performing any task as long as it  can be broken down into a series of logical steps.    Computer to perform different kinds of works with same accurac y and efficiency.   Reliability    A computer is reliable as it gives consistent result for similar set of data     we give same set of input any number of times, we will get the same result.   Automation    Computer performs all the tasks automaticall y.It performs tasks without manual  intervention.
+",934,0.0018679999999999999,2024-01-27 15:13:52
+user,business,1,0.0,2024-01-27 15:13:52
+assistant,"Computers have an integrated part in all business or non-business organizations. They are used for various tasks such as payroll calculations, sales analysis, budgeting, financial forecasting, managing employees' database, and maintenance of stocks, among others. The computer is essential in business applications. 
+
+No specific page is mentioned on this topic.",68,0.0018679999999999999,2024-01-27 15:13:52
+system,"
+You are a helpful Assistant who retrieves all related information about a specific topic from a provided document.
+
+Provide all relevant information based on the user query from the content of the PDF extract with metadata.
+
+Keep your answers exactly as they appear in the document without modifications or personal interpretation.
+
+Match user queries with the exact text from the document.
+
+Focus on the metadata, particularly 'filename' and 'page' when answering.
+
+The evidence is solely from the content of the PDF extract.
+
+Respond with ""Not applicable"" if the text is irrelevant.
+
+The PDF content is:
+Speed    A computer works with much higher speed compared to humans    Computers can process millions of  instructions per second.    The time taken by computers for their operations is microseconds and nanoseconds.   Accuracy    Computers perform calculations with 100% accuracy.    Errors that may occur can almost always be attributed to human error .   Inaccurate data, poorly designed system or faulty programs written by the programmer   Diligence    Computers are highly consistent.    They do not suffer from human traits of boredom and tiredness , lack of concentration.    Computers  can perform  voluminous and repetitive jobs.   Versatility    Computers are versatile machines and are capable of performing any task as long as it  can be broken down into a series of logical steps.    Computer to perform different kinds of works with same accurac y and efficiency.   Reliability    A computer is reliable as it gives consistent result for similar set of data     we give same set of input any number of times, we will get the same result.   Automation    Computer performs all the tasks automaticall y.It performs tasks without manual  intervention.
+Memory /Storage    Computers can store large volumes of data.    A piece of information once recorded (or stored) in the computer, can never be forgotten  and can be retrieved almost instantaneously.   1.3 APPLICATION OF  COMPUTER   The computer used in various application area  inthe world . 
+
+1. Business   2. Education   3. Marketing   4. Banking   5. Insurance   6. Communication   7. Health Care   8. Military   9. Engineering Design  
+
+› Business   A computer  has an integrated part in all busi ness or non -business organizations .  Ex: Payroll calculations, Sales analysis, Budgeting, Financial forecasting, Managing employees  database and Maintenance of stocks etc.  
+
+› Education   Computers have its dominant use in the education field to enhance perfor mance in learning.   Even distance learning is made effective through internet and video -based classes.   Researchers have massive usage of these computers in their scholarly work.  
+
+› Marketing   Advertising  marketing w ith computers, advertising professionals c reate art and graphics, write  and revise copy, and print and disseminate ads with the goal of selling more products.  
+
+Computerized  catalogues that provide access to product information and permit direct entry of  orders to be filled by the customers.  the co mputer used to prints the  magazines, , newspapers,  books and many others.  
+
+› Banking   Today banking is almost totally dependent on computer. Banks provide online accounting  facility, which includes current balances, deposits, overdrafts, interest charges, shares, and  trustee records.   ATM machines are making it even easier for customers to deal with banks.  
+
+› Insurance   Insurance companies are keeping all records up -to-date with the help of computers. The  insurance companies, finance houses and stock broking firms are widely using computers for  their concerns.
+",921,0.0018419999999999999,2024-01-27 15:31:23
+user,speed,1,0.0,2024-01-27 15:31:23
+assistant,"Speed:
+- A computer works with much higher speed compared to humans
+- Computers can process millions of instructions per second.
+- The time taken by computers for their operations is microseconds and nanoseconds.
+
+(Page 1)
+
+Not applicable",55,0.0018419999999999999,2024-01-27 15:31:23
+system,"
+You are a helpful Assistant who retrieves all related information about a specific topic from a provided document.
+
+Provide all relevant information based on the user query from the content of the PDF extract with metadata.
+
+Keep your answers exactly as they appear in the document without modifications or personal interpretation.
+
+Match user queries with the exact text from the document.
+
+Focus on the metadata, particularly 'filename' and 'page' when answering.
+
+The evidence is solely from the content of the PDF extract.
+
+Respond with ""Not applicable"" if the text is irrelevant.
+
+The PDF content is:
+Memory /Storage    Computers can store large volumes of data.    A piece of information once recorded (or stored) in the computer, can never be forgotten  and can be retrieved almost instantaneously.   1.3 APPLICATION OF  COMPUTER   The computer used in various application area  inthe world . 
+
+1. Business   2. Education   3. Marketing   4. Banking   5. Insurance   6. Communication   7. Health Care   8. Military   9. Engineering Design  
+
+› Business   A computer  has an integrated part in all busi ness or non -business organizations .  Ex: Payroll calculations, Sales analysis, Budgeting, Financial forecasting, Managing employees  database and Maintenance of stocks etc.  
+
+› Education   Computers have its dominant use in the education field to enhance perfor mance in learning.   Even distance learning is made effective through internet and video -based classes.   Researchers have massive usage of these computers in their scholarly work.  
+
+› Marketing   Advertising  marketing w ith computers, advertising professionals c reate art and graphics, write  and revise copy, and print and disseminate ads with the goal of selling more products.  
+
+Computerized  catalogues that provide access to product information and permit direct entry of  orders to be filled by the customers.  the co mputer used to prints the  magazines, , newspapers,  books and many others.  
+
+› Banking   Today banking is almost totally dependent on computer. Banks provide online accounting  facility, which includes current balances, deposits, overdrafts, interest charges, shares, and  trustee records.   ATM machines are making it even easier for customers to deal with banks.  
+
+› Insurance   Insurance companies are keeping all records up -to-date with the help of computers. The  insurance companies, finance houses and stock broking firms are widely using computers for  their concerns.
+Speed    A computer works with much higher speed compared to humans    Computers can process millions of  instructions per second.    The time taken by computers for their operations is microseconds and nanoseconds.   Accuracy    Computers perform calculations with 100% accuracy.    Errors that may occur can almost always be attributed to human error .   Inaccurate data, poorly designed system or faulty programs written by the programmer   Diligence    Computers are highly consistent.    They do not suffer from human traits of boredom and tiredness , lack of concentration.    Computers  can perform  voluminous and repetitive jobs.   Versatility    Computers are versatile machines and are capable of performing any task as long as it  can be broken down into a series of logical steps.    Computer to perform different kinds of works with same accurac y and efficiency.   Reliability    A computer is reliable as it gives consistent result for similar set of data     we give same set of input any number of times, we will get the same result.   Automation    Computer performs all the tasks automaticall y.It performs tasks without manual  intervention.
+",916,0.0018319999999999999,2024-01-27 15:31:57
+user,business,1,0.0,2024-01-27 15:31:57
+assistant,"A computer has an integrated part in all business or non-business organizations. Examples of its application in business include payroll calculations, sales analysis, budgeting, financial forecasting, managing employees' database, and maintenance of stocks. (Page: Not applicable)",50,0.0018319999999999999,2024-01-27 15:31:57
+system,"
+You are a helpful Assistant who retrieves all related information about a specific topic from a provided document.
+
+Provide all relevant information based on the user query from the content of the PDF extract with metadata.
+
+Keep your answers exactly as they appear in the document without modifications or personal interpretation.
+
+Match user queries with the exact text from the document.
+
+Focus on the metadata, particularly 'filename' and 'page' when answering.
+
+The evidence is solely from the content of the PDF extract.
+
+Respond with ""Not applicable"" if the text is irrelevant.
+
+The PDF content is:
+Speed    A computer works with much higher speed compared to humans    Computers can process millions of  instructions per second.    The time taken by computers for their operations is microseconds and nanoseconds.   Accuracy    Computers perform calculations with 100% accuracy.    Errors that may occur can almost always be attributed to human error .   Inaccurate data, poorly designed system or faulty programs written by the programmer   Diligence    Computers are highly consistent.    They do not suffer from human traits of boredom and tiredness , lack of concentration.    Computers  can perform  voluminous and repetitive jobs.   Versatility    Computers are versatile machines and are capable of performing any task as long as it  can be broken down into a series of logical steps.    Computer to perform different kinds of works with same accurac y and efficiency.   Reliability    A computer is reliable as it gives consistent result for similar set of data     we give same set of input any number of times, we will get the same result.   Automation    Computer performs all the tasks automaticall y.It performs tasks without manual  intervention.
+Memory /Storage    Computers can store large volumes of data.    A piece of information once recorded (or stored) in the computer, can never be forgotten  and can be retrieved almost instantaneously.   1.3 APPLICATION OF  COMPUTER   The computer used in various application area  inthe world . 
+
+1. Business   2. Education   3. Marketing   4. Banking   5. Insurance   6. Communication   7. Health Care   8. Military   9. Engineering Design  
+
+› Business   A computer  has an integrated part in all busi ness or non -business organizations .  Ex: Payroll calculations, Sales analysis, Budgeting, Financial forecasting, Managing employees  database and Maintenance of stocks etc.  
+
+› Education   Computers have its dominant use in the education field to enhance perfor mance in learning.   Even distance learning is made effective through internet and video -based classes.   Researchers have massive usage of these computers in their scholarly work.  
+
+› Marketing   Advertising  marketing w ith computers, advertising professionals c reate art and graphics, write  and revise copy, and print and disseminate ads with the goal of selling more products.  
+
+Computerized  catalogues that provide access to product information and permit direct entry of  orders to be filled by the customers.  the co mputer used to prints the  magazines, , newspapers,  books and many others.  
+
+› Banking   Today banking is almost totally dependent on computer. Banks provide online accounting  facility, which includes current balances, deposits, overdrafts, interest charges, shares, and  trustee records.   ATM machines are making it even easier for customers to deal with banks.  
+
+› Insurance   Insurance companies are keeping all records up -to-date with the help of computers. The  insurance companies, finance houses and stock broking firms are widely using computers for  their concerns.
+",908,0.001816,2024-01-27 16:01:42
+user,speed,1,0.0,2024-01-27 16:01:42
+assistant,A computer works with much higher speed compared to humans. Computers can process millions of instructions per second. The time taken by computers for their operations is microseconds and nanoseconds. (Page 1),42,0.001816,2024-01-27 16:01:42

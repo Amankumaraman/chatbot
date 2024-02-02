@@ -1,0 +1,108 @@
+<!-- templates/ask_page.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Page</title>
+    <!-- Add Bootstrap CSS link -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8sh+WyIdQVaC3agD&" crossorigin="anonymous">
+    <style>
+        /* Add custom styling for the chat-like interface */
+        #chatContainer {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        .message-container {
+            margin-bottom: 15px;
+        }
+
+        .user-message {
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+        }
+
+        .assistant-message {
+            background-color: #cce5ff;
+            border-color: #b8daff;
+        }
+    </style>
+</head>
+<body>
+    <div id="chatContainer">
+        <h1>Chatbot Page</h1>
+        <nav>
+            <ul>
+                {% if user.is_authenticated %}
+                    <li><a href="{% url 'logout' %}">Logout</a></li>
+                {% endif %}
+            </ul>
+        </nav>
+
+        <div id="chatMessages"></div>
+
+        <form id="askForm">
+            {% csrf_token %}
+            <div class="form-group">
+                <input type="text" class="form-control" name="question" id="question" placeholder="Type your question..." required>
+            </div>
+            <button type="submit" class="btn btn-primary">Ask</button>
+        </form>
+    </div>
+
+    <!-- Add Bootstrap JS and Popper.js scripts -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.8/dist/umd/popper.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2Xof8EjZ3U9K3I5z5L6Yg9K3gByh21KckwC" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8sh+WyIdQVaC3agD&" crossorigin="anonymous"></script>
+
+    <script>
+        // Add JavaScript logic for chat-like interaction
+        document.getElementById('askForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+
+            // Get user input
+            var userQuestion = document.getElementById('question').value;
+
+            // Display user message
+            appendMessage('user', userQuestion, 'user-message');
+
+            // Send a request to the 'ask' API endpoint
+            // (Assuming you have a function similar to the 'fetch' example in previous messages)
+            fetch('/api/ask/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({
+                    'question': userQuestion,
+                }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Display assistant's response
+                appendMessage('assistant', data.response, 'assistant-message');
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+
+            // Clear the input field
+            document.getElementById('question').value = '';
+        });
+
+        function appendMessage(role, content, styleClass) {
+            var chatMessages = document.getElementById('chatMessages');
+            var messageContainer = document.createElement('div');
+            messageContainer.classList.add('message-container');
+            messageContainer.classList.add(styleClass);
+
+            var messageRole = role.charAt(0).toUpperCase() + role.slice(1);
+            messageContainer.innerHTML = `<strong>${messageRole}:</strong> ${content}`;
+            
+            chatMessages.appendChild(messageContainer);
+        }
+    </script>
+</body>
+</html>
